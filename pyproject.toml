@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "OSlash"
-version = "0.6.0"
+version = "0.6.2"
 description = "A functional library for playing with Functors, Applicatives, and Monads in Python"
 authors = ["Dag Brattli <dag@brattli.net>"]
+requires-python = ">3"
 
 [tool.poetry.dependencies]
 python = "*"
